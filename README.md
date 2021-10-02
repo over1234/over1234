@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=cylinder&color=auto&height=300&section=header&text=text=over1234_render&animation=fadeIn%20render&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=cylinder&color=gradient&height=300&section=header&text=over1234&animation=fadeIn&render&fontSize=90)
 
 
 ### My SNS
