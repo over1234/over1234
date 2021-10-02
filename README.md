@@ -1,5 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=cylinder&color=gradient&height=150&section=header&text=over1234&animation=blinking&render&fontSize=90)
 
+### Introduce Self
+hello, i'm a person who dreams of becoming a programmer in the future
 
 ### My SNS
 <img src="https://img.shields.io/badge/whdvlf1155@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/>
