@@ -8,4 +8,8 @@
 ### APP
 <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=Dart&logoColor=white"/> / <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=Flutter&logoColor=white"/>
 
+### My GitHub Stats
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=over1234&show_icons=true&theme=radical)
+
+### Count the Guset
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fover1234&count_bg=%23000000&title_bg=%23F0ED00&icon=github.svg&icon_color=%230A0A0A&title=Guests&edge_flat=false)](https://hits.seeyoufarm.com)
