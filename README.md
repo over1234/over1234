@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=cylinder&color=gradient&height=150&section=header&text=over1234&animation=blinking&render&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=cylinder&color=gradient&height=150&section=header&text=over&animation=blinking&render&fontSize=90)
 
 ### Introduce Self
 hello, i'm a person who dreams of becoming a programmer in the future
